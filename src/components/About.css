@@ -1,0 +1,12 @@
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.about > h1 {
+  font-family: "Segoe UI";
+  color: #404040;
+  font-weight: lighter;
+  font-size: 20px;
+  font-style: italic;
+}

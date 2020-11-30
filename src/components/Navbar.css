@@ -1,0 +1,17 @@
+* {
+  text-decoration: none !important;
+}
+.navbar {
+  background-color: #087cea;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+.navbar h3 {
+  font-family: "Segoe UI";
+  text-align: center;
+  font-weight: lighter;
+  font-style: italic;
+  color: #fff;
+  margin: 0px 15px;
+}

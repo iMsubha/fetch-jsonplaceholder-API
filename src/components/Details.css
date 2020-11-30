@@ -1,0 +1,19 @@
+.details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 150px;
+  border: 1px solid #ccc;
+  padding: 5px;
+  box-shadow: 5px 2px;
+}
+
+.details > ul {
+  font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+}
+
+.address {
+  font-size: 15px;
+  margin-left: 30px;
+}
